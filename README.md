@@ -9,7 +9,7 @@
     Фреймворки: React, Next.js
 
     Стилизация: CSS3, SCSS, Tailwind CSS
-
+https://github.com/AldSenior/AldSenior/blob/main/README.md
     Инструменты: Git, Webpack, Vite, Figma
 
     Прочее: REST API, адаптивная верстка, React Hooks
@@ -22,7 +22,7 @@
 
     📆 Calendar — веб-календарь на React
 
-    🃏 Dyrak — игра "Дурак" против бота
+    🃏 Dyrak — онлайн-версия игры "Дурак"
 
     ♟️ Chess — шахматы с WebSockets
 
@@ -56,13 +56,9 @@ ChatGPT said:
 🧩 Pet-проекты
 
     🔢 Calculator — калькулятор на React
-
     🧠 MemoryMaster — игра на запоминание
-
     📆 Calendar — веб-календарь на React
-
-    🃏 Dyrak — онлайн-версия карточной игры «Дурак»
-
+    🃏 Dyrak — Карточная игра "Дурак" против бота
     ♟️ Chess — шахматы с WebSocket-поддержкой
 
 🎯 Цели на 2025
@@ -79,6 +75,5 @@ ChatGPT said:
 
     💬 Telegram: @Ald_Sio
 
-    💼 LinkedIn: ссылка на профиль
 
 <p align="center"> 💡 Открыт к стажировкам, сотрудничеству и интересным задачам! </p>
