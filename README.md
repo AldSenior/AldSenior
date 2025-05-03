@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Привет! Я Артур
 
-<!--
-**AldSenior/AldSenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий фронтенд-разработчик, увлечённый созданием удобных и современных веб-интерфейсов. Активно изучаю технологии React, Next.js и TypeScript, стремлюсь к чистому коду и постоянно совершенствуюсь.
+🛠 Мой стек
 
-Here are some ideas to get you started:
+    Языки: JavaScript (ES6+), TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Фреймворки: React, Next.js
+
+    Стилизация: CSS3, SCSS, Tailwind CSS
+
+    Инструменты: Git, Webpack, Vite, Figma
+
+    Прочее: REST API, адаптивная верстка, React Hooks
+
+🧩 Pet-проекты
+
+    🔢 Calculator — Калькулятор, реализованный с использованием React и JavaScript.
+
+    🧠 MemoryMaster — Игра на запоминание, разработанная на JavaScript.
+
+    📆 Calendar — Веб-приложение календаря, созданное с использованием React.
+
+    🃏 Dyrak — Онлайн-реализация карточной игры «Дурак» с использованием React.
+
+    ♟️ Chess — Онлайн-шахматы с поддержкой реального времени через WebSockets.
+
+🎯 Цели на 2025 год
+
+    Углубить знания в TypeScript и Next.js
+
+    Освоить архитектуру крупных приложений
+
+    Получить опыт командной разработки над реальными проектами
+
+📬 Контакты
+
+    📧 Email: aldsio196@gmail.com
+
+    🐦 Telegram: @Ald_Sio
+
+
+💡 Открыт к стажировкам, сотрудничеству и интересным задачам. Буду рад новым знакомствам!
